@@ -21,7 +21,6 @@ If you like what I have done here and want to help I would recommend that you fi
 
 After you have done that if you feel like my work has been valuable to you I welcome your support through BuyMeACoffee.
 
-<a href="https://www.buymeacoffee.com/joshmulliken" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 ## Installation (HACS) - Highly Recommended
 
@@ -82,4 +81,3 @@ If you would like more information then please look at the [wiki](https://github
 2. Restart HA
 3. Verify you're still having the issue
 4. File an issue in this Github Repository
-

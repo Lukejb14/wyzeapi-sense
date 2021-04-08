@@ -1,5 +1,5 @@
 {
-  "name": "Wyze Bulb, Switch and Sensor Integration",
+  "name": "My Wyze Bulb, Switch and Sensor Integration",
   "domains": [
     "switch",
     "light",
