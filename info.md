@@ -1,4 +1,4 @@
-# [Wyze Bulb, Switch, Sensor and Lock Integration](https://github.com/JoshuaMulliken/ha-wyzeapi) for Home Assistant
+# [Wyze Bulb, Switch, Sensor and Lock Integration](https://github.com/Lukejb14/wyzeapi-sense) for Home Assistant
 
 This is a custom component to allow control of Wyze Bulbs, Switches, Sensors, and Locks in Home Assistant using the unofficial Wyze API. Please note this mimics the Wyze app and therefore Wyze may cut off access at anytime.
 
@@ -9,7 +9,7 @@ This is a custom component to allow control of Wyze Bulbs, Switches, Sensors, an
 * View Wyze Sensors as binary_sensor through HA
 * View Wyze Lock Status and Door Status as lock through HA
 	* ***Note:* Currently you can only view the lock status or door status. Lock and Unlock does not work!**
-	
+
 ## Support
 If you feel like my work has been valuable to you I welcome your support through BuyMeACoffee!
 
@@ -18,4 +18,4 @@ If you feel like my work has been valuable to you I welcome your support through
 ## Useful Links
 
 * [README](https://github.com/JoshuaMulliken/ha-wyzeapi/blob/master/README.md)
-* [Repository](https://github.com/JoshuaMulliken/ha-wyzeapi)
+* [Repository](https://github.com/Lukejb14/wyzeapi-sense)
